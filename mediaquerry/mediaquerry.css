@@ -30,6 +30,9 @@
   .stats-container .stats .text {
     margin-top: 15px;
   }
+  footer{
+    padding:0px;
+  }
 }
 @media only screen and (max-width: 500px) {
   nav .logo img {
