@@ -439,11 +439,11 @@ body {
 .whatsapp-icon:hover {
   background: #1ebe57;
 }
-.address-info{
+.address-info {
   background-color: #002f47;
 }
 
-.address-info a:hover{
+.address-info a:hover {
   color: green !important;
 }
 /* Footer */
@@ -456,10 +456,10 @@ footer ul a {
 footer ul a:hover {
   color: #299b46 !important;
 }
-footer .logo-text{
+footer .logo-text {
   margin-top: -40px;
 }
 
-footer{
+footer {
   padding-left: 70px;
 }
