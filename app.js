@@ -15,13 +15,13 @@ setInterval(() => {
 const services = [
   {
     title: "Pest Control",
-    image: "images/services/pest-control.jpg",
+    image: "images/services/one.jpg",
     description:
       "We provide reliable and effective pest control solutions to keep your home and business safe from unwanted pests. Our expert team specializes in eliminating termites, rodents, cockroaches, bed bugs, and more using eco-friendly and safe methods.",
   },
   {
     title: "Termite Treatment",
-    image: "images/services/termite-control.jpg",
+    image: "images/services/three.jpg",
     description:
       "Protect your property from destructive termites with our professional termite treatment solutions. We use advanced techniques to detect, eliminate, and prevent termite infestations, ensuring long-lasting protection for your home or business.",
   },
