@@ -1,4 +1,13 @@
-const words = ["Rodents", "Insects", "Ticks", "Mosquitoes", "Bugs", "Termites"];
+const words = [
+  "Rodents",
+  "Insects",
+  "Ticks",
+  "Mosquitoes",
+  "Bed Bugs",
+  "Termites",
+  "waterproofing",
+  "Heatproofing",
+];
 let index = 0;
 const textElement = document.querySelector(".changing-text");
 
@@ -64,13 +73,15 @@ const services = [
   },
   {
     title: "Sofa Cleaning",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROoy8j_tEfNjEOYNETgr2hDUPBuV-LOFo2jw&s",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROoy8j_tEfNjEOYNETgr2hDUPBuV-LOFo2jw&s",
     description:
       "Our Sofa Cleaning Service removes dust, stains, and allergens using deep-cleaning techniques and eco-friendly products. We restore your sofa’s freshness, ensuring a clean, hygienic, and comfortable living space.",
   },
   {
     title: "Home Cleaning",
-    image: "https://karsaaz.app/uploads/sub-category/7e022a36040e0fb3033d070326655da24cfaefb2.jpg",
+    image:
+      "https://karsaaz.app/uploads/sub-category/7e022a36040e0fb3033d070326655da24cfaefb2.jpg",
     description:
       "Our Home Cleaning Service provides deep cleaning for a spotless, hygienic, and fresh living space. We remove dust, dirt, and germs using safe and effective methods, ensuring a healthy home for you and your family.",
   },
