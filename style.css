@@ -46,14 +46,14 @@ body {
   width: 100%;
   align-items: center;
   display: flex;
+  padding: 0;
 }
 .logo a {
   font-size: 1.2em;
 }
 .logo {
-  /* background-color: #002f47; */
-  padding: 10px;
   margin-bottom: 5px;
+  margin-left: -15px;
 }
 .my-nav-items {
   font-size: 1.2em;
